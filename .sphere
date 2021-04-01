@@ -1,0 +1,6 @@
+{
+  "id": "rune.stories.encyclopedia",
+  "title": "Енциклопедія",
+  "parent": "../.sphere",
+  "status": "private"
+}
